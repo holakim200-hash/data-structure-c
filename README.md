@@ -8,7 +8,8 @@
 - [] Linked List
 - [] Tree
 - [] Graph
-
+- [] sorting
 ## 목표
+- 깃허브 사용해보기
 - 시간복잡도 이해
 - 메모리 구조 이해
